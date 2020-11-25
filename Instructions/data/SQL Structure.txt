@@ -1,0 +1,7 @@
+Schema - Storage space (physical server) or Database
+  --- Table - logical groups of data 
+	columns - datatype , Nul or Not Null, Primary or Foreign or Unique
+
+
+CRUD - Select, Update & Delete
+
